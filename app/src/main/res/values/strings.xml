@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="tvHolaMundo">Hola Mundo</string>
+    <string name="tvAdiosMundo">Adiós Mundo</string>
+</resources>
