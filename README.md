@@ -18,9 +18,9 @@ Se prueba diferentes elementos del entorno de desarrollo de android studio como 
 
 ## Biblioteca de clases
 
-+ Manifiest
-+ Activity.Java
-+ Recursos .xml
++ Manifiest : Primer fichero en ejecutarse cuando se lanza la aplicación, el que define los parámetros que se utilizarán para su lanzamiento
++ Activity.Java : Contiene el código back-end para nuestra aplicación.
++ Recursos .xml : Todos los recursos estan almacenados en este fichero; imágenes, texto, icono de la aplicación...
 
 ## Estado de la aplicación
 El proyecto se encuentra terminado al terminar la parte del temario básica correpondiente.
